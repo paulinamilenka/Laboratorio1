@@ -1,5 +1,6 @@
-# Laboratorio1
+﻿# Laboratorio1
 Laboratorio 1 clase Microestructuras y sistemas de trading
 
 Autores:
-Andrés García Ruvalcaba
+Andrés García Ruvalcaba,
+Paulina Milenka Glez Manrique
